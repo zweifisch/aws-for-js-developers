@@ -1,0 +1,1 @@
+{ "dependencies": { "@aws-sdk/client-dynamodb": "^3.682.0", "@aws-sdk/client-s3": "^3.682.0", "@aws-sdk/client-sns": "^3.682.0", "@aws-sdk/client-sqs": "^3.682.0", "aws-sdk": "^2.1691.0", "hono": "^4.6.8", "sst": "^3.2.70" } }
